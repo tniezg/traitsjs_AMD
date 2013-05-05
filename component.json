@@ -1,0 +1,6 @@
+{
+	"name": "traitsjs_AMD",
+	"version": "0.4.1",
+	"main": "traits.js",
+	"dependencies":{}
+}
